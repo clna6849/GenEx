@@ -1,0 +1,9 @@
+# Tested with:
+# Python 3.11.14
+# NumPy 2.4.0
+# PyTorch 2.9.1+cpu
+# scikit-learn 1.8.0
+
+numpy==2.4.0
+torch==2.9.1+cpu
+scikit-learn==1.8.0
