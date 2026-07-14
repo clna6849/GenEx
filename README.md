@@ -9,7 +9,7 @@ No CFD training data, preprocessing routines, hyperparameter optimization, cross
 ## Repository structure
 
 ```text
-stratified-tes-surrogate/
+GenEx/
 ├── models/
 │   └── final_prediction_cache.pt
 ├── tes_mlp_prediction.py
