@@ -6,10 +6,18 @@ The repository is intended for prediction-only use based on the trained model ca
 
 ## Repository structure
 
-```text
+```
 GenEx/
 ├── models/
 │   └── final_prediction_cache.pt
 ├── tes_mlp_prediction.py
 ├── requirements.txt
 └── README.md
+```
+## Installation
+
+Install the required Python packages using Python 3.11.x or newer:
+
+```
+pip install -r requirements.txt
+```
