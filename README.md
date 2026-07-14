@@ -14,13 +14,26 @@ GenEx/
 ```
 ## Installation
 
-Install the required Python packages using Python 3.11.x or newer:
+Clone the GitHub repository:
 
-```python
-pip install -r requirements.txt
+```text
+git clone https://github.com/clna6849/GenEx.git
+cd GenEx
 ```
 
-The model was tested for Python 3.11.14, NumPy 2.4.0, PyTorch 2.9.1 and scikit-learn 1.8.0.
+Create a new python environment using Python 3.11.x:
+
+```text
+conda create -n genex python=3.11
+conda activate genex
+```
+
+Install the requirements:
+
+```
+pip install -r requirements.txt
+```
+The model was tested for Python 3.11.14, NumPy 2.4.0, PyTorch 2.9.1 and scikit-learn 1.8.0. After successful installation, the script `tes_mlp_prediction.py` can be used directly from the repository folder, for example in Spyder, VS Code, Jupyter, or any other Python environment, as long as the working directory is set to the folder containing `tes_mlp_prediction.py` and the `models` directory.
 
 ## Basic usage
 
