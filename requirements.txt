@@ -5,5 +5,5 @@
 # scikit-learn 1.8.0
 
 numpy==2.4.0
-torch==2.9.1+cpu
+torch==2.9.1
 scikit-learn==1.8.0
