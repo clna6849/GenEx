@@ -21,3 +21,5 @@ Install the required Python packages using Python 3.11.x or newer:
 ```
 pip install -r requirements.txt
 ```
+
+The model was tested for Python 3.11.14, NumPy 2.4.0, PyTorch 2.9.1 and scikit-learn 1.8.0.
